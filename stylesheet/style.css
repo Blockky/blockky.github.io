@@ -10,3 +10,11 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.lineas img{
+    height: 40px;
+}
+
+.pics img{
+    height: 160px;
+}
