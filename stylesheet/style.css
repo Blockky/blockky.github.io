@@ -5,16 +5,6 @@ body{
     margin: 0;
 }
 
-.tabla{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.lineas img{
-    height: 40px;
-}
-
-.pics img{
-    height: 160px;
+article{
+    padding: 25px;
 }
