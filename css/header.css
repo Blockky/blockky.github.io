@@ -1,0 +1,26 @@
+.site-header {
+  background: linear-gradient(90deg, #0b0310, #14061b);
+  padding: 0.75rem 0;
+  border-bottom: 1px solid rgba(255,255,255,0.03);
+}
+
+.nav {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-link {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: "Lucida Console", "Courier New", monospace;
+  padding: 0.25rem 0.5rem;
+}
+
+.nav-link:hover {
+  opacity: 0.9;
+}
