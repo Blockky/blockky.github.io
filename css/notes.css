@@ -1,0 +1,10 @@
+.pdf-adj{
+    display: flex;
+    gap: 1.25rem;
+    align-items: center;
+    color: rgb(255, 157, 157);
+}
+
+.pdf-adj a{
+    text-decoration: none;
+}
